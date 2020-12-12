@@ -1,4 +1,14 @@
-### Hi there 👋
+```bash
+echo 'blah' | \
+    tr 'ah' 'lo' | \
+    sed -e 's/^[a-z]/H/' | \
+    awk '{n=split($0,a,"");
+        for (i in a) {if (a[i]=="H") print i " " a[i] "e";
+        else print i " " a[i];} print n+1 " " "!"}' | \
+    sort | \
+    cut -d' ' -f2 | \
+    paste -s -d '\0' -
+```
 
 <!--
 **curtisalexander/curtisalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
