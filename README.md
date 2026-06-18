@@ -12,7 +12,7 @@ echo 'blah' | \
 
 ### Projects
 
-- [**ft**](https://github.com/curtisalexander/ft) — Fine-tuning explained, with a worked DistilBERT phone-number extraction example · [read the guide](https://curtisalexander.github.io/ft/)
+- [**ft**](https://github.com/curtisalexander/ft) — Fine-tuning explained, with a worked DistilBERT phone-number extraction example
 
 <!--
 **curtisalexander/curtisalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
