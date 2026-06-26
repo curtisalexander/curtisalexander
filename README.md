@@ -10,10 +10,6 @@ echo 'blah' | \
     paste -s -d '\0' -
 ```
 
-### Projects
-
-- [**ft**](https://github.com/curtisalexander/ft) — Fine-tuning explained, with a worked DistilBERT phone-number extraction example
-
 <!--
 **curtisalexander/curtisalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
